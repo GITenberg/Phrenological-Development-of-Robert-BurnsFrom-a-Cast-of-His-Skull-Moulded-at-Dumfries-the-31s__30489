@@ -1,0 +1,32 @@
+_repo: Phrenological-Development-of-Robert-BurnsFrom-a-Cast-of-His-Skull-Moulded-at-Dumfries-the-31s__30489
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30489-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Combe, George
+    alias: Comb, George
+    birthdate: 1788
+    deathdate: 1858
+    gutenberg_agent_id: '34641'
+    url: http://www.gutenberg.org/2009/agents/34641
+description: ''
+gutenberg_issued: '2009-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30489'
+  lccn: 03006283
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burns, Robert, 1759-1796'
+- !lcsh 'Phrenology'
+- !lcc 'BF'
+- !lcc 'PR'
+title: 'Phrenological Development of Robert Burns
+
+  From a Cast of His Skull Moulded at Dumfries, the 31st Day of March 1834'
+url: http://www.gutenberg.org/ebooks/30489
